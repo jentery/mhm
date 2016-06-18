@@ -4,16 +4,16 @@ edited by Jentery Sayers
 
 ## Table of Contents
 
-I. INTRODUCTION
+I. Introduction
 
-II. MAKING AND THE HUMANITIES
+II. Making and the Humanities 
 
-III. MADE BY WHOM? FOR WHOM?
+III. Made by Whom? For Whom? 
 
-IV. MAKING AS INQUIRY
+IV. Making as Inquiry 
 
-V. MAKING SPACES AND INTERFACES
+V. Making Spaces and Interfaces 
 
-VI. MAKING, JUSTICE, ETHICS
+VI. Making, Justice, Ethics 
 
 (chapter titles and authors to be added soon, likely before 1 July 2016) 

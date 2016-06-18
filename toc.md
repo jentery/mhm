@@ -1,0 +1,13 @@
+I. INTRODUCTION
+
+II. MAKING AND THE HUMANITIES
+
+III. MADE BY WHOM? FOR WHOM?
+
+IV. MAKING AS INQUIRY
+
+V. MAKING SPACES AND INTERFACES
+
+VI. MAKING, JUSTICE, ETHICS
+
+(chapter titles and authors to be added soon, likely before 1 July 2016) 

@@ -1,3 +1,9 @@
+# Making Humanities Humanities 
+
+edited by Jentery Sayers 
+
+## Table of Contents
+
 I. INTRODUCTION
 
 II. MAKING AND THE HUMANITIES

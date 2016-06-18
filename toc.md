@@ -1,4 +1,4 @@
-# Making Humanities Humanities 
+# Making Humanities Matter 
 
 edited by Jentery Sayers 
 

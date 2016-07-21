@@ -412,8 +412,8 @@ Chapter 25. “Feminist Hackerspaces: Hacking Culture, Not Devices (the zine!),�
 > After Fox, Ulgado and Rosner published an academic paper on a study of
 > feminist hackerspaces in 2015, a chance encounter between Burek, a
 > hackerspace member, and Fox at a local short run publication festival
-> led to collaboration on a zine — a self- published magazine typically
-> made with a photocopier — that knit together content from the
+> led to collaboration on a zine--a self-published magazine typically
+> made with a photocopier--that knit together content from the
 > published paper with local histories of feminist print production.
 > Reprinted here, the zine is an effort circulate scholarship and
 > continue conversations from the field.

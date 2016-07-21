@@ -163,8 +163,8 @@ Chapter 9. â€œLooks Like We Made It, But Are We Sustaining Digital Scholarship?â
 > The increasing number of digital projects relating to the field of
 > antiquity is especially promising for the future of traditionally
 > archaic academic fields, including Ancient History, Classics, and
-> Archaeology. However, it is not enough to embark upon a Digital
-> Humanities project simply for the sake of having a digital presence.
+> Archaeology. However, it is not enough to embark upon a digital
+> humanities project simply for the sake of having a digital presence.
 > To make digital humanities projects truly meaningful, students and
 > professionals must ensure that their contributions are useful and
 > relevant. As a case study, this article presents how a small scale

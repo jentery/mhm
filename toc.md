@@ -165,7 +165,7 @@ Chapter 9. “Looks Like We Made It, But Are We Sustaining Digital Scholarship?�
 > archaic academic fields, including Ancient History, Classics, and
 > Archaeology. However, it is not enough to embark upon a Digital
 > Humanities project simply for the sake of having a digital presence.
-> To make Digital Humanities projects truly meaningful, students and
+> To make digital humanities projects truly meaningful, students and
 > professionals must ensure that their contributions are useful and
 > relevant. As a case study, this article presents how a small scale
 > digitization project entitled “From Stone to Screen" approaches the

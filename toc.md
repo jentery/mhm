@@ -1,3 +1,13 @@
+# Making Humanities Matter
+
+A collection of essays edited by Jentery Sayers (University of Victoria) 
+
+University of Minnesota Press (under review; manuscript complete) 
+
+Proposed volume in the *Debates in the Digital Humanities* series, edited by Matthew K. Gold and Lauren Klein 
+
+# Table of Contents 
+
 > [*Introduction*](#)
 >
 > [*I. Making and the Humanities*](#i.-making-and-the-humanities)
@@ -222,7 +232,7 @@ Chapter 13. “Made: Technology on Affluent Leisure Time,” by Garnet Hertz
 > in the first edition of Critical Making (Hollywood, Cal.: Telharmonium
 > Press. 2012, http://conceptlab.com/criticalmaking). Download the high resolution image and print your own stickers at http://conceptlab.com/made/.
 
-14. “Reifying the Maker as Humanist,” by John Hunter, Katherine Faull, and Diane Jakacki
+Chapter 14. “Reifying the Maker as Humanist,” by John Hunter, Katherine Faull, and Diane Jakacki
 
 > This chapter argues that the success of “making” depends not only on
 > physical space, but rather on the intersections between disciplines
@@ -238,19 +248,8 @@ Chapter 13. “Made: Technology on Affluent Leisure Time,” by Garnet Hertz
 > contemporary DH makers, we will move on to some specific examples from
 > our own experience and end by articulating the transformative
 > potential of the DH maker as an enactment of humanistic thought.
->
-> *John Hunter is Associate Professor of Comparative Humanities at
-> Bucknell University*
->
-> *Katherine Faull is Professor of German and Humanities at Bucknell
-> University.*
->
-> *Diane Jakacki is . . .*
 
-15\. “All Technology Is Assistive: Six Design Rules on Disability,” by
-Sara
-
-Hendren
+Chapter 15. “All Technology Is Assistive: Six Design Rules on Disability,” by Sara Hendren
 
 > So-called assistive technologies have for at least the last 75 years
 > been researched and developed in many cultures under the paradigm of
@@ -262,16 +261,10 @@ Hendren
 > else might prosthetics do in an expressive, performative sense to
 > reframe normalcy in the body?
 
-*Sara Hendren is Assistant Professor of Design and Director of the *
-
-> *Adaptation + Ability Group at Olin College.*
-
 III. Making as Inquiry 
 =======================
 
-16\. “Thinking as Handwork: Critical Making with Humanistic Concerns,” by
-
-Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto
+Chapter 16. “Thinking as Handwork: Critical Making with Humanistic Concerns,” by Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto
 
 > In this chapter, we describe some ways of thinking productively about
 > materiality by illustrating how our own material interventions have
@@ -286,23 +279,9 @@ Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto
 > disciplinary boundaries can share objects, methods, and features; and
 > how new technologies that blur material­-digital distinctions are
 > changing cultural institutions.
->
-> *Gabby Resch is a PhD Candidate in Information at the University of
-> Toronto. *
->
-> *Dan Southwick is a PhD Candidate in Information at the University of
-> Toronto.*
->
-> *Isaac Record is an Assistant Professor of Practice in Lyman Briggs
-> College at Michigan State University.*
->
-> *Matt Ratto is Associate Professor of Information at the University of
-> Toronto.*
->
-> 17\. “Bibliocircuitry and the Design of the Alien Everyday (2012-2013),”
-> by Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus,
-> Cameron Mozafari, and Kathryn Skutlin
->
+
+Chapter 17. “Bibliocircuitry and the Design of the Alien Everyday (2012-2013),” by Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin
+
 > Bibliocircuitry and the Design of the Alien Everyday is a series of
 > student projects that grew out of several book design labs conducted
 > as part of a Fall 2012 course (ENGL 758B Book 2.0: The History of the
@@ -312,32 +291,10 @@ Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto
 > larger aims of the course: to position bibliotextual scholarship and
 > pedagogy as design-oriented practices that can be used to prototype
 > and imagine the future of the book. The project resulted in a
-> publication by the same name
-> (http://scholarworks.iu.edu/journals/index.php/textual/article/download/5051/4649).
->
-> *Charity (Hancock) Balch is a 2013 MA graduate of University of
-> Maryland’s English program.*
->
-> *Clifford (Hichar) Moberg is a scholar, artist, and lifelong gamer.
-> She received her MA in English Literature at the University of
-> Maryland in 2013.*
->
-> *Carlea Holl-Jensen holds an MFA in Fiction from the University of
-> Maryland, where she now works in the College of Information Studies.*
->
-> *Kari Kraus is an Associate Professor in the College of Information
-> Studies and the Department of English at the University of Maryland. *
->
-> *Cameron Mozafari is a PhD student in Language, Writing, and Rhetoric
-> at the University of Maryland.*
->
-> *Kathryn (Skutlin) Shutt is a 2013 MA graduate of University of
-> Maryland’s English program.*
->
-> 18\. “Doing History by Reverse Engineering Electronic Devices,” by Yana
-> Boeva, Devon Elliott, Edward Jones-Imhotep, Shezan Muhammedi, and
-> William J. Turkel
->
+> publication by the same name (http://scholarworks.iu.edu/journals/index.php/textual/article/download/5051/4649).
+
+Chapter 18. “Doing History by Reverse Engineering Electronic Devices,” by Yana Boeva, Devon Elliott, Edward Jones-Imhotep, Shezan Muhammedi, and William J. Turkel
+
 > We describe three experiences with a rewarding, but still relatively
 > underutilized, form of collaborative historical practice: reverse
 > engineering electronic artifacts. Our first case study involves the
@@ -357,25 +314,9 @@ Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto
 > technology in today’s devices. Using these three cases, we show that
 > things (re)made can serve as productive, interdisciplinary sites of
 > research creation in the humanities.
->
-> *Yana Boeva is a PhD candidate in Science & Technology Studies at York
-> University. *
->
-> *Devon Elliott is a PhD student at The University of Western Ontario.*
->
-> *Edward Jones-Imhotep is Associate Professor of the History of
-> Technology at York University.*
->
-> *Shezan Muhammedi is a PhD student at The University of Western
-> Ontario.*
->
-> *William J. Turkel is Professor of History at The University of
-> Western Ontario.*
 
-19\. “Electronic Music Hardware and Open Design Methodologies for
+Chapter 19. “Electronic Music Hardware and Open Design Methodologies for Post-Optimal Objects,” by Ezra Teboul
 
-> Post-Optimal Objects,” by Ezra Teboul
->
 > This chapter presents a short overview of hardware hacking practices
 > in electronic music, suggesting how component level analysis of some
 > artifacts can inform the musical products and their environments. How
@@ -387,32 +328,18 @@ Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto
 > multi-faceted understandings of engineering, based in experimentation
 > rather than prediction. The document ends by suggesting points for
 > future analysis, contextualization and invention.
->
-> *Ezra Teboul is a candidate for a Ph.D. in electronic arts at
-> Rensselaer *
->
-> *Polytechnic Institute. *
->
-> 20\. “Glitch Console,” by Nina Belojevic
->
+
+Chapter 20. “Glitch Console,” by Nina Belojevic
+
 > Belojevic’s “glitch console”—a modified Nintendo Entertainment
->
 > System—demonstrates how circuit bending engages with the materiality
 > of videogames and game consoles, linking such consumer products to
 > issues of labor, environment, and industry exploitation. Circuit
 > bending, the practice of modifying the behavior of electronics by
 > soldering new connection points on a circuit board, also encourages a
-> creative, hands-on approach to media studies
-> (https://ninabelojevic.wordpress.com/
-> portfolio/nintendo-circuit-bending/).
->
-> *Nina Belojevic is a User Experience Strategist and Media Artist in
-> Vancouver, British Columbia. *
+> creative, hands-on approach to media studies (https://ninabelojevic.wordpress.com/portfolio/nintendo-circuit-bending/).
 
-21\. “Creative Curating: The Digital Archive as Argument,” by Joanne
-Bernardi
-
-and Nora Dimmock
+Chapter 21. “Creative Curating: The Digital Archive as Argument,” by Joanne Bernardi and Nora Dimmock
 
 > *Re-envisioning Japan: Japan as Destination in 20^th^ Century Visual
 > and Material Culture* (REJ) is an ongoing faculty-Digital Humanities
@@ -432,19 +359,9 @@ and Nora Dimmock
 > archive has evolved from questions and lines of investigation derived
 > from the images and objects themselves, exposing the scholarship
 > inherent in the curatorial process.
->
-> *Joanne Bernardi is Associate Professor of Japanese and Film and Media
-> Studies at the University of Rochester.*
->
-> *Nora Dimmock is Assistant Dean for Information Technology, Research &
-> Digital Scholarship and Director of the Digital Humanities Center at
-> the University of Rochester.*
 
-22\. “Reading Series Matter: Performing the SpokenWeb Project,” by
-Alexander
+Chapter 22. “Reading Series Matter: Performing the SpokenWeb Project,” by Alexander Flamenco, Lee Hannigan, and Aurelio Meza
 
-> Flamenco, Lee Hannigan, and Aurelio Meza
->
 > In the past twenty or so years, a large number of poetry sound
 > recordings have been collected and stored in online databases hosted
 > by university institutions. The SpokenWeb digital archive is one such
@@ -462,23 +379,9 @@ Alexander
 > culturally specific. But how exactly do we approach this aggregate?
 > How is history made through the (re)construction of artifacts, and how
 > is this kind of makerspace playing a role in humanities research?
->
-> *Alexander Flamenco teaches literature in Québec's Cegep system. He
-> completed his MA in English literature at Concordia University in
-> Montréal.*
->
-> *Lee Hannigan is a PhD student in English and Film Studies at the
-> University of Alberta.*
->
-> *Aurelio Meza is a PhD student in Humanities at Concordia University
-> in Montréal, and part of the Laboratory of Expanded Literature and
-> Other Materialities in Mexico City.*
 
-23\. “Loss Sets,” by Aaron Tucker, Jordan Scott, Tiffany Cheung, and
-Namir
+Chapter 23. “Loss Sets,” by Aaron Tucker, Jordan Scott, Tiffany Cheung, and Namir Ahmed
 
-> Ahmed
->
 > Working with Ryerson University’s Digital Media Experience Lab, the
 > Ryerson Geospatial Maps and Data Centre, and the Ryerson Centre for
 > Digital Humanities, the 3D Poetry Project translates poems co-written
@@ -496,25 +399,8 @@ Namir
 > sculpture is “carved away” from a six-inch cube, and those results are
 > then printed using a 3D printer (http://aarontucker.ca/3-d-poems/).
 
-*Aaron Tucker is the author of punchlines and Interfacing with the
-Internet *
+Chapter 24. “Dialogic Objects in the Age of 3D Printing: The Case of the Lincoln Life Mask,” by Susan Garfinkel
 
-> *in Popular Cinema, co-creator of the ChessBard and is currently a
-> lecturer in the English department of Ryerson University. *
->
-> *Jordan Scott is the author of Silt, blert, Decomp (with Steve
-> Collis), clearance process, and the upcoming Night & Ox. *
->
-> *Tiffany Cheung was awarded the Phylis Yaffe Innovation Student
-> Scholar in 2014 at Ryerson University with experience working in one
-> of the world's largest architecture firm.*
->
-> *Namir Ahmed is the director of the Digital Media Experience Lab at
-> Ryerson University and is a veteran of Digital Media and Archaeology.*
->
-> 24\. “Dialogic Objects in the Age of 3D Printing: The Case of the Lincoln
-> Life Mask,” by Susan Garfinkel
->
 > November 2013 saw the launch of “Smithsonian X 3D,” an initiative to
 > scan significant museum artifacts and turn them into three-dimensional
 > digital models to view online or download and 3D-print via a portal
@@ -531,15 +417,10 @@ Internet *
 > clarifies the shifting terrains, both physical and meaningful, that
 > all material entities inhabit.
 
-*Susan Garfinkel is a research specialist at the Library of Congress.*
-
 IV. Making Spaces and Interfaces 
 =================================
 
-25\. “Feminist Hackerspaces: Hacking Culture, Not Devices (the zine!),”
-by Amy
-
-Burek, Emily Alden Foster, Sarah Fox, and Daniela K. Rosner
+Chapter 25. “Feminist Hackerspaces: Hacking Culture, Not Devices (the zine!),” by Amy Burek, Emily Alden Foster, Sarah Fox, and Daniela K. Rosner
 
 > After Fox, Ulgado and Rosner published an academic paper on a study of
 > feminist hackerspaces in 2015, a chance encounter between Burek, a
@@ -550,108 +431,15 @@ Burek, Emily Alden Foster, Sarah Fox, and Daniela K. Rosner
 > Reprinted here, the zine is an effort circulate scholarship and
 > continue conversations from the field.
 
-*Amy Burek is a scientist and artist based in the San Francisco Bay
-Area. *
-
-> *Emily Alden Foster is an artist and librarian in Oakland, California.
-> *
->
-> *Sarah Fox is a PhD candidate in the department of Human Centered
-> Design & Engineering at the University of Washington. *
->
-> *Daniela K. Rosner is an Assistant Professor in the Department of
-> Human Centered Design & Engineering at the University of Washington.*
->
-> 26\. “Fashioning Circuits (2011-Present),” by Kim A. Brillante Knight
-> (founder and director); Brianni Nelson, Elisa Pequini, Amy Pickup,
-> Tameka Reeves, and Mattie Tanner (co-founding students); Elizabeth Bell,
-> Jessica Knott, Jodi Madera-Prado, Andrew Miller, Laura Pasquini, and
-> Lari Tanner (research team); B Cavello, Sunnye Childers, Lance King,
-> Harrison Massey, Patti Mcletchie, Sydnie Montgomery, Karla Muñoz, and
-> Lauren Shafer (community team)
+Chapter 26. “Fashioning Circuits (2011-Present),” by Kim A. Brillante Knight (founder and director); Brianni Nelson, Elisa Pequini, Amy Pickup, Tameka Reeves, and Mattie Tanner (co-founding students); Elizabeth Bell, Jessica Knott, Jodi Madera-Prado, Andrew Miller, Laura Pasquini, and Lari Tanner (research team); B Cavello, Sunnye Childers, Lance King, Harrison Massey, Patti Mcletchie, Sydnie Montgomery, Karla Muñoz, and Lauren Shafer (community team)
 >
 > Fashioning Circuits uses wearable media as a lens to consider the
-> social
->
-> and cultural valences of bodies and identities in relation to fashion,
+> social and cultural valences of bodies and identities in relation to fashion,
 > technology, labor practices, and craft and maker cultures. A public
 > humanities project, it combines scholarship, university coursework,
 > and community partnerships (http://fashioningcircuits.com).
->
-> *Kim A. Brillante Knight is an associate professor of Emerging Media
-> and Communication at The University of Texas at Dallas. *
->
-> *Brianni Nelson (EMAC MA 2012) is a marketing strategist, PhD
-> candidate and instructor of emerging media theory at UTDallas.*
->
-> *Elisa Pequini (EMAC MA 2012) is a co-founder of Social Tailors, a
-> digital media agency back in her hometown of São Paulo, Brazil.*
->
-> *Amy Pickup (EMAC MA 2012) is an application developer who codes
-> training and development web apps using AngularJS and Java in New York
-> City.*
->
-> *Tameka Reeves (EMAC MA 2012) is an educator, blogger, and freelance
-> writer. *
->
-> *Mattie Tanner (EMAC MA 2012) is a production editor at the American
-> Heart Association, focusing on eBooks and international print
-> products.*
->
-> *Lisa Bell is a clinical professor of EMAC and the Associate Dean of
-> Administration in the School of Arts, Technology, and Emerging
-> Communication at UT Dallas.*
->
-> *Jessica Knott, Ph.D. (Michigan State University) is the Learning
-> Design manager for MSU Information Technology.*
->
-> *Jodi Madera-Prado (EMAC MA 2015) is the online forum
-> administrator/Moderator at G6 Hospitality within the Marketing-Quality
-> dept.*
->
-> *Andrew J. Miller is a software seveloper with a Masters in Learning
-> Technologies from the University of North Texas.*
->
-> *Laura A. Pasquini, Ph.D. is a Lecturer in Learning Technologies at
-> @UNTCOI & Researcher with The Digital Learning and Social Media Group
-> at @RoyalRoads*
->
-> *Lari Tanner (EMAC MA 2015) is a lecturer of communication studies at
-> UTDallas where she also served as ed tech support in Arts and
-> Humanities.*
->
-> *B Cavello (UTD Econ 2014) is an aspiring polymath, activist, and
-> Client Engagement Leader at IBM Watson.*
->
-> *Sunnye Childers (MSW, University of Wisconsin-Madison) is a mother of
-> two and an independent stylist and team leader for cabi.*
->
-> *Lance King (EMAC BA 2014) is a mobile developer for
-> MarketingVitals.com and the co-founder and CTO of Mesh Technologies,
-> LLC.*
->
-> *Harrison "Hal" Massey (EMAC MA 2014) is a software development
-> engineer at Mediocre with ongoing personal work in creative Twitter
-> bot-making.*
->
-> *Patti McLetchie (EMAC BA 2013) is a front end developer who actively
-> volunteers to help increase access to the arts.*
->
-> *Sydnie Montgomery (EMAC MA 2012) is an educator currently teaching
-> digital design in the early college program at Spruce High School in
-> Dallas ISD.*
->
-> *Karla Y. Muñoz (EMAC MA 2013) is a fangirl interested in tech and fan
-> culture. She is currently an Agriculture Specialist with Customs and
-> Border Protection.*
->
-> *Lauren Shafer (EMAC BA 2013) is a Graphic Designer at Eastfield
-> College where she also teaches courses in Digital Media.*
 
-27\. “Making Queer Feminisms Matter: A Transdisciplinary Makerspace for
-the
-
-Rest of Us,” by Melissa Rogers
+Chapter 27. “Making Queer Feminisms Matter: A Transdisciplinary Makerspace for the Rest of Us,” by Melissa Rogers
 
 > This essay offers a snapshot of the Women’s Studies Multimedia Studio
 > at the University of Maryland, a transdisciplinary space for the
@@ -663,16 +451,9 @@ Rest of Us,” by Melissa Rogers
 > Studio can transform our understandings of “the digital” and challenge
 > our assumptions about what counts as creativity. Doing so might enable
 > us to imagine multiple futures for digital humanities.
->
-> *Melissa Rogers is a doctoral candidate in Women’s Studies at the
-> University of Maryland and a teaching artist in the MAKESHOP at the
-> Children’s Museum of Pittsburgh.*
 
-28\. “Movable Party,” by Wendy Hsu, Steven Kemper, Josef Taylor, Linda
-Wei,
+Chapter 28. “Movable Party,” by Wendy Hsu, Steven Kemper, Josef Taylor, Linda Wei, and Jacob Alden Sargent
 
-> and Jacob Alden Sargent
->
 > Movable Party is a bicycle-powered system for participatory mobile
 > musical performance designed and built by Los-Angeles-based maker
 > collective, Movable Parts. Taking design inspirations from Taiwan’s
@@ -685,66 +466,22 @@ Wei,
 > well as rider position. Mapped to musical parameters in software,
 > sensor data from riders’ gestures and movements transform the bicycles
 > into interactive musical instruments.
->
-> *Wendy Hsu is . . . *
->
-> *Steven Kemper is . . . *
->
-> *Josef Taylor is . . . *
->
-> *Linda Wei is . . . *
->
-> *Jacob Alden Sargent is . . .*
 
-29\. “Disrupting Dichotomies: Mobilizing Digital Humanities with the
-MakerBus,”
+Chapter 29. “Disrupting Dichotomies: Mobilizing Digital Humanities with the MakerBus,” by Kim Martin, Beth Compton, and Ryan Hunt
 
-by Kim Martin, Beth Compton, and Ryan Hunt
+> Abstract
 
-Abstract
+Chapter 30. “Designs for Foraging: Fruit Are Heavy,” by Carl DiSalvo, Tom Jenkins, Jong Won (Karl) Kim, Catherine Meschia, and Craig Durkin
 
-*Kim Martin is . . . *
-
-*Beth Compton is . . . *
-
-*Ryan Hunt is . . . *
-
-30\. “Designs for Foraging: Fruit Are Heavy,” by Carl DiSalvo, Tom
-Jenkins, Jong
-
-> Won (Karl) Kim, Catherine Meschia, and Craig Durkin
->
 > The Design for Foraging project explores the appropriation of
 > precision technologies for ad-hoc urban agricultures. Fruit Are Heavy
 > is a custom-designed, low-fidelity sensing platform to infer the
 > ripeness of fruit in trees by monitoring the relative droop of
 > branches as the fruit matures. The project uses research-thru-design
 > to speculate on diverse economies and propose alternative
-> configurations of so-called smart cities
-> (http://designsforforaging.tumblr.com).
->
-> *Carl DiSalvo is an Associate Professor in the School of Literature,
-> Media, and Communication at the Georgia Institute of Technology and
-> Director of the Public Design Workshop. *
->
-> *Tom Jenkins is a PhD student in Digital Media at the Georgia
-> Institute of Technology and a lead researcher for the Public Design
-> Workshop. *
->
-> *Jong Won (Karl) Kim was a Computational Media major at the Georgia
-> Institute of Technology and a lead programmer for the Public Design
-> Workshop. *
->
-> *Catherine Meschia was an Industrial Design major at the Georgia
-> Institute of Technology and a lead designer for the Public Design
-> Workshop. . *
->
-> *Craig Durkin is founder of Concrete Jungle.*
+> configurations of so-called smart cities (http://designsforforaging.tumblr.com).
 
-31\. “Experience Design for the Humanities: Activating Multiple
-Interpretations,”
-
-by Stan Ruecker and Jennifer Roberts-Smith
+Chapter 31. “Experience Design for the Humanities: Activating Multiple Interpretations,” by Stan Ruecker and Jennifer Roberts-Smith
 
 > This chapter argues that the humanities has an opportunity to create a
 > new kind of experience design that is fundamentally different in its
@@ -757,18 +494,8 @@ by Stan Ruecker and Jennifer Roberts-Smith
 > experiences to engage audiences in complex acts of interpretation, as
 > they move into and out from cultural performances and venues.
 
-*Stan Ruecker is an Associate Professor at the IIT Institute of Design
-in *
+Chapter 32. “AIDS Quilt Touch: Virtual Quilt Browser,” by Anne Balsamo, Dale MacDonald, and Jon Winet
 
-> *Chicago.*
-
-*Jennifer Roberts-Smith is an Associate Professor in Drama and Speech *
-
-> *Communication at the University of Waterloo.*
->
-> 32\. “AIDS Quilt Touch: Virtual Quilt Browser,” by Anne Balsamo, Dale
-> MacDonald, and Jon Winet
->
 > The AIDS Quilt Touch (AQT) Virtual Quilt Browser is one of several
 > interactive experiences based on the AIDS Memorial Quilt. In
 > free-browse mode, viewers can explore the Quilt by zooming and panning
@@ -777,18 +504,9 @@ in *
 > the cultural significance of the Quilt. Other AQT applications include
 > a story-making platform, a digital guest book, and interactive
 > timelines (http://aidsquilttouch.org/).
->
-> *Anne Balsamo is the Dean of the School of Art, Technology, and
-> Emerging Communication at the University of Texas at Dallas.*
->
-> *Dale MacDonald is . . . *
->
-> *Jon Winet is . . . *
 
-33\. “Building Humanities Software that Matters: The Case of Ward One
-Mobile
 
-App,” by Heidi Rae Cooley and Duncan A. Buell
+Chapter 33. “Building Humanities Software that Matters: The Case of Ward One Mobile App,” by Heidi Rae Cooley and Duncan A. Buell
 
 > For the past four years, we have been developing critical interactives
 > that bring unacknowledged histories of social inequity to visibility.
@@ -808,18 +526,9 @@ App,” by Heidi Rae Cooley and Duncan A. Buell
 > that run unnoticed in the background, tracking and keeping track of
 > us, might very well produce the conditions for meaningful
 > sociocultural change in the present
->
-> *Heidi Rae Cooley is an Associate Professor of Media Arts in the
-> School of Visual Art and Design and Film and Media Studies Program at
-> the University of South Carolina.*
->
-> *Duncan A. Buell is a Professor and holder of the NCR Chair in the
-> Department of Computer Science and Engineering at the University of
-> South Carolina. *
 
-34\. “Placeable: A Social Practice for Place-based Learning and Co-design
 
-Paradigms,” by Aaron Knochel and Amy Papaelias
+Chapter 34. “Placeable: A Social Practice for Place-based Learning and Co-design Paradigms,” by Aaron Knochel and Amy Papaelias
 
 > Placeable is a place-based curricular approach that explores how
 > social practice interfaces with design strategies for interactive
@@ -836,18 +545,9 @@ Paradigms,” by Aaron Knochel and Amy Papaelias
 > humanities scholarship and making practices. We offer insights into
 > the complexities of social practice and higher education as co-design
 > paradigms in the context of broader critical making inquiries.
->
-> *Aaron D. Knochel is an Assistant Professor of Art Education and
-> Embedded Researcher in the Art & Design Research Incubator at The
-> Pennsylvania State University *
->
-> *Amy Papaelias is an Assistant Professor of Graphic Design at the
-> State University of New York at New Paltz.*
->
-> 35\. “Making the Model: Scholarship and Rhetoric in 3D Historical
-> Reconstructions,” by Elaine Sullivan, Angel David Nieves, and Lisa M.
-> Snyder
->
+
+Chapter 35. “Making the Model: Scholarship and Rhetoric in 3D Historical Reconstructions,” by Elaine Sullivan, Angel David Nieves, and Lisa M. Snyder
+
 > Scholars investigating the impact of the built landscape on historic
 > communities are increasingly turning to the creation of
 > three-dimensional computer models to reconstruct aspects of
@@ -868,21 +568,11 @@ Paradigms,” by Aaron Knochel and Amy Papaelias
 > Egypt; Chicago 1893; 20th century South Africa), this article will
 > demonstrate how “making” a model can be a rich form of critical
 > scholarly practice.
->
-> *Elaine Sullivan is an Assistant Professor of History at the
-> University of California, Santa Cruz. *
->
-> *Angel David Nieves is an Associate Professor and Co-Director of the
-> Digital Humanities Initiative (DHi) at Hamilton College.*
->
-> *Lisa M. Snyder is a Research Scholar with UCLA’s Office of
-> Information Technology and the Institute for Digital Research and
-> Education. *
 
 V. Making, Ethics, Justice 
 ===========================
 
-36\. “Beyond Making,” by Debbie Chachra
+Chapter 36. “Beyond Making,” by Debbie Chachra
 
 > ‘Making’ has historically been made possible by an enormous amount of
 > labor that does not result in artifacts, such as caregiving and
@@ -890,13 +580,8 @@ V. Making, Ethics, Justice
 > poorly-compensated or unpaid. This short essay argues against the
 > devaluation of these types of labor as a byproduct of an emphasis on
 > ‘making’.
->
-> *Debbie Chachra is an Associate Professor of Materials Science at Olin
-> College of Engineering.*
 
-37\. “Making It Matter,” by Jeremy Boggs, Jennifer Reed, and J. K. Purdom
-
-Lindblad
+Chapter 37. “Making It Matter,” by Jeremy Boggs, Jennifer Reed, and J. K. Purdom Lindblad
 
 > For making to matter in the humanities, making should demonstrate that
 > the people involved matter. This essay encourages an ethos of making
@@ -904,18 +589,9 @@ Lindblad
 > of whether the act of making is one of production, praxis, theory, or
 > a combination of the three, thoughtful making in the humanities should
 > forefront reflection on human experiences and impacts.
->
-> *Jeremy Boggs is Design Architect for the Scholars’ Lab at the
-> University of Virginia Library*
->
-> *Jennifer Reed is the Florence Levy Kay Fellow in Eighteenth-Century
-> Studies at Brandeis University. *
->
-> *J. K. Purdom Lindblad is Assistant Director of Innovation and
-> Learning at the Maryland Institute for Technology in the Humanities.*
->
-> 38\. “Ethics in the Making,” by Erin R. Anderson and Trisha N. Campbell
->
+
+Chapter 38. “Ethics in the Making,” by Erin R. Anderson and Trisha N. Campbell
+
 > Picking up on calls for an “ethical turn” in digital humanities, we
 > consider how digital artists and composers might attune ourselves
 > toward the ethical potential of our own encounters with the media and
@@ -935,6 +611,3 @@ Lindblad
 > with digital media and methods might provide us with a powerful
 > opportunity to account for a fuller range of our ethical relations
 > with the social-material world.
->
-
-

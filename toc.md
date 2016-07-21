@@ -335,7 +335,7 @@ Chapter 21. “Creative Curating: The Digital Archive as Argument,” by Joanne 
 > digital environment. REJ encompasses both a digital archive and a
 > material collection of tourism, travel, and educational ephemera in a
 > wide range of media, documenting changing representations of Japan and
-> its place in the world in the early-to-mid-20^th^ c. This chapter
+> its place in the world in the early-to-mid-20th century. This chapter
 > traces REJ’s five-year development from the prospect of a scholarly
 > monograph with a digital component to a collaborative project that
 > functions as critical humanities scholarship. The process of

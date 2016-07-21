@@ -560,18 +560,18 @@ V. Making, Ethics, Justice
 
 Chapter 36. “Beyond Making,” by Debbie Chachra
 
-> ‘Making’ has historically been made possible by an enormous amount of
+> "Making" has historically been made possible by an enormous amount of
 > labor that does not result in artifacts, such as caregiving and
 > education, work which is often invisible, gendered, and
 > poorly-compensated or unpaid. This short chapter argues against the
 > devaluation of these types of labor as a byproduct of an emphasis on
-> ‘making’.
+> "making."
 
 Chapter 37. “Making It Matter,” by Jeremy Boggs, Jennifer Reed, and J. K. Purdom Lindblad
 
 > For making to matter in the humanities, making should demonstrate that
 > the people involved matter. This chapter encourages an ethos of making
-> that encourages attention to—and advocacy for—the humane. Regardless
+> that encourages attention to--and advocacy for--the humane. Regardless
 > of whether the act of making is one of production, praxis, theory, or
 > a combination of the three, thoughtful making in the humanities should
 > forefront reflection on human experiences and impacts.
@@ -584,7 +584,7 @@ Chapter 38. “Ethics in the Making,” by Erin R. Anderson and Trisha N. Campbe
 > materials of our practice. While others have suggested the potential
 > for works of digital art to affect or move audiences toward new
 > ethical ends, we seek to push the conversation to consider the act of
-> the making itself. Grounding our argument in our own practice-based
+> making itself. Grounding our argument in our own practice-based
 > digital methods, we discuss two projects that use performative and
 > disruptive approaches to digital audio in order to make, speak, and
 > feel *with* the voices of others--the voices of accused murderers

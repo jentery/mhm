@@ -314,7 +314,7 @@ Chapter 19. “Electronic Music Hardware and Open Design Methodologies for Post-
 > practice lead inventors to develop personal, fragmented and
 > multi-faceted understandings of engineering, based in experimentation
 > rather than prediction. The document ends by suggesting points for
-> future analysis, contextualization and invention.
+> future analysis, contextualization, and invention.
 
 Chapter 20. “Glitch Console,” by Nina Belojevic
 

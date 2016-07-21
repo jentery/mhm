@@ -114,7 +114,7 @@ Chapter 6. “Making Humanities in the Digital: Embodiment and Framing in
 > processes of making digital objects are creative *and* analytical,
 > affective, and embodied, and (b) the "digital" itself is in a
 > perpetual state of change and collapses different processes of making
-> into one, namely that of ‘framing’ information. The chapter draws
+> into one, namely that of "framing" information. The chapter draws
 > largely from interviews with researchers and practitioners working
 > with these and similar initiatives, conducted as part of a study on
 > mapping the field of digital humanities in India.

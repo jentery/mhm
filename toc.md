@@ -79,7 +79,7 @@ Chapter 4.  “A Literacy of Building: Making in the Digital Humanities,” by B
 > was viewed as a set of skills rather than as ideologically constructed
 > social activity. Once this perception changed, scholars were able to
 > ask new questions that revolutionized the understanding of literacy.
-> This essay examines how scholarly making in DH is not a set of
+> This chapter examines how scholarly making in DH is not a set of
 > isolated “skills” but instead ideologically constructed social
 > activity. It argues against the counterproductive pitting of writing
 > against making and for comprehending the shared ideological constructs
@@ -100,21 +100,21 @@ Chapter 5. “MashBOT,” by Helen J. Burgess
 Chapter 6. “Making Humanities in the Digital: Embodiment and Framing in
 *Bichitra* and *Indiancine.ma*,” by P.P. Sneha
 
-> This essay explores the processes of ‘making’ of digital objects in
-> the context of recent humanities research and practice in India that
-> mobilize digital techniques as key methods. These include an online
-> video archival initiative (Indiancine.ma) and a digital variorum of
+> This chapter explores the processes of "making" digital objects in
+> the context of recent humanities research in India that
+> mobilizes digital techniques as key methods. This research includes an online
+> video archive (Indiancine.ma) and a digital variorum of
 > Rabindranath Tagore's literary works (Bichitra) developed at the
-> University of Jadavpur, Kolkata. Film, text and archival objects
-> acquire several nuances as they are ‘made’ into digital objects, and
+> University of Jadavpur, Kolkata. Film, text, and archival objects
+> acquire several nuances as they are made into digital objects, and
 > these are reflected in methods of working with and studying them.
 > Through a discussion of these projects, and drawing on literature on
-> embodiment, affect and representation in the digital, the essay
-> extends the above thoughts on ‘making’ by suggesting that: (a) the
-> processes of making digital objects are creative and analytical,
-> affective, and embodied, and (b) the ‘digital’ itself, which is in a
-> perpetual state of change, collapses different processes of making
-> into one, namely that of ‘framing’ information. The essay draws
+> embodiment, affect, and representation in the digital, the chapter
+> extends the above thoughts on making by suggesting that: (a) the
+> processes of making digital objects are creative *and* analytical,
+> affective, and embodied, and (b) the ‘digital’ itself is in a
+> perpetual state of change and collapses different processes of making
+> into one, namely that of ‘framing’ information. The chapter draws
 > largely from interviews with researchers and practitioners working
 > with these and similar initiatives, conducted as part of a study on
 > mapping the field of digital humanities in India.
@@ -428,7 +428,7 @@ Chapter 26. “Fashioning Circuits (2011-Present),” by Kim A. Brillante Knight
 
 Chapter 27. “Making Queer Feminisms Matter: A Transdisciplinary Makerspace for the Rest of Us,” by Melissa Rogers
 
-> This essay offers a snapshot of the Women’s Studies Multimedia Studio
+> This chapter offers a snapshot of the Women’s Studies Multimedia Studio
 > at the University of Maryland, a transdisciplinary space for the
 > exploration of the politics of making in the humanities and a
 > laboratory for the prototyping of feminist pedagogies. Through
@@ -500,7 +500,7 @@ Chapter 33. “Building Humanities Software that Matters: The Case of Ward One M
 > Our current project is a mobile application for iPhone called *Ward
 > One* that foregrounds the history of urban renewal that made possible
 > the expansion of the University of South Carolina at the expense of
-> working class African Americans. In this essay, we focus on the
+> working class African Americans. In this chapter, we focus on the
 > software that makes the app an operational and nontrivial critical
 > interactive. We discuss the structural logic of the content management
 > system and the micro-processes that “push” (not “pull”) content to the
@@ -564,14 +564,14 @@ Chapter 36. “Beyond Making,” by Debbie Chachra
 > ‘Making’ has historically been made possible by an enormous amount of
 > labor that does not result in artifacts, such as caregiving and
 > education, work which is often invisible, gendered, and
-> poorly-compensated or unpaid. This short essay argues against the
+> poorly-compensated or unpaid. This short chapter argues against the
 > devaluation of these types of labor as a byproduct of an emphasis on
 > ‘making’.
 
 Chapter 37. “Making It Matter,” by Jeremy Boggs, Jennifer Reed, and J. K. Purdom Lindblad
 
 > For making to matter in the humanities, making should demonstrate that
-> the people involved matter. This essay encourages an ethos of making
+> the people involved matter. This chapter encourages an ethos of making
 > that encourages attention to—and advocacy for—the humane. Regardless
 > of whether the act of making is one of production, praxis, theory, or
 > a combination of the three, thoughtful making in the humanities should

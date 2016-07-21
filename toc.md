@@ -481,12 +481,12 @@ Chapter 31. “Experience Design for the Humanities: Activating Multiple Interpr
 > experiences to engage audiences in complex acts of interpretation, as
 > they move into and out from cultural performances and venues.
 
-Chapter 32. “AIDS Quilt Touch: Virtual Quilt Browser,” by Anne Balsamo, Dale MacDonald, and Jon Winet
+Chapter 32. “*AIDS Quilt Touch*: Virtual Quilt Browser,” by Anne Balsamo, Dale MacDonald, and Jon Winet
 
-> The AIDS Quilt Touch (AQT) Virtual Quilt Browser is one of several
+> The *AIDS Quilt Touch* (AQT) Virtual Quilt Browser is one of several
 > interactive experiences based on the AIDS Memorial Quilt. In
 > free-browse mode, viewers can explore the Quilt by zooming and panning
-> across the 25 gigapixel image. In the Narrative Threads mode, viewers
+> across the 25 gigapixel image. In the narrative threads mode, viewers
 > can follow pathways that present stories about individual panels and
 > the cultural significance of the Quilt. Other AQT applications include
 > a story-making platform, a digital guest book, and interactive
@@ -512,8 +512,7 @@ Chapter 33. “Building Humanities Software that Matters: The Case of Ward One M
 > experiences. Ultimately, we show how everyday technological processes
 > that run unnoticed in the background, tracking and keeping track of
 > us, might very well produce the conditions for meaningful
-> sociocultural change in the present
-
+> sociocultural change in the present.
 
 Chapter 34. “Placeable: A Social Practice for Place-based Learning and Co-design Paradigms,” by Aaron Knochel and Amy Papaelias
 

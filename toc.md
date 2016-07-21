@@ -232,7 +232,7 @@ Chapter 14. “Reifying the Maker as Humanist,” by John Hunter, Katherine Faul
 > responsibility to reclaim the importance of making as being
 > historically central to the humanities. After first undoing the
 > presumed discontinuity between traditional humanist practice and
-> contemporary DH makers, we will move on to some specific examples from
+> contemporary DH makers, we move on to some specific examples from
 > our own experience and end by articulating the transformative
 > potential of the DH maker as an enactment of humanistic thought.
 

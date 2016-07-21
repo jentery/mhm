@@ -6,6 +6,8 @@ University of Minnesota Press (under review; manuscript complete)
 
 Proposed volume in the *Debates in the Digital Humanities* series, edited by Matthew K. Gold and Lauren Klein 
 
+*Making Humanities Matter* is divided into five sections, including 38 chapters. The sections include original essays, several pieces republished with revisions, and a number of “project snapshots”: one-page chapters about particular projects to prompt further study and dialogue about the relevance of making within and around the humanities. 
+
 Introduction
 ============
 

@@ -365,7 +365,7 @@ Chapter 22. “Reading Series Matter: Performing the SpokenWeb Project,” by Al
 > it as an aggregate, one that is historically, technologically, and
 > culturally specific. But how exactly do we approach this aggregate?
 > How is history made through the (re)construction of artifacts, and how
-> is this kind of makerspace playing a role in humanities research?
+> is this kind of making playing a role in humanities research?
 
 Chapter 23. “Loss Sets,” by Aaron Tucker, Jordan Scott, Tiffany Cheung, and Namir Ahmed
 

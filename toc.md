@@ -328,7 +328,7 @@ Chapter 20. “Glitch Console,” by Nina Belojevic
 
 Chapter 21. “Creative Curating: The Digital Archive as Argument,” by Joanne Bernardi and Nora Dimmock
 
-> *Re-envisioning Japan: Japan as Destination in 20^th^ Century Visual
+> *Re-envisioning Japan: Japan as Destination in 20th Century Visual
 > and Material Culture* (REJ) is an ongoing faculty-Digital Humanities
 > Center project that models humanistic scholarship realized and
 > communicated through creative curation and a collaboratively built

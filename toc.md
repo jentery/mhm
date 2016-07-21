@@ -548,11 +548,11 @@ Chapter 35. “Making the Model: Scholarship and Rhetoric in 3D Historical Recon
 > identify a question that is best (or sometimes can only be) answered
 > by considering space and spatial relationships. The resulting model is
 > not a neutral representation of “the past,” but the scholar’s
-> interpretation of *specific* aspects of a place at a certain time - an
+> interpretation of *specific* aspects of a place at a certain time--an
 > interpretation that can be challenged, revised, or rejected by others.
 > Using case studies from across historical time and space (ancient
-> Egypt; Chicago 1893; 20th century South Africa), this article will
-> demonstrate how “making” a model can be a rich form of critical
+> Egypt; Chicago 1893; 20th-century South Africa), this chapter
+> demonstrates how “making” a model can be a rich form of critical
 > scholarly practice.
 
 V. Making, Ethics, Justice 

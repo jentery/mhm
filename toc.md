@@ -1,4 +1,4 @@
-# Making Humanities Matter
+# Making Humanities Matter: Table of Contents
 
 A collection of essays edited by Jentery Sayers (University of Victoria) 
 
@@ -6,27 +6,12 @@ University of Minnesota Press (under review; manuscript complete)
 
 Proposed volume in the *Debates in the Digital Humanities* series, edited by Matthew K. Gold and Lauren Klein 
 
-# Table of Contents 
-
-> [*Introduction*](#)
->
-> [*I. Making and the Humanities*](#i.-making-and-the-humanities)
->
-> [*II. Made By Whom? For Whom?*](#ii.-made-by-whom-for-whom)
->
-> [*III. Making as Inquiry*](#iii.-making-as-inquiry)
->
-> [*IV. Making Spaces and
-> Interfaces*](#iv.-making-spaces-and-interfaces)
->
-> [*V. Making, Ethics, Justice*](#v.-making-ethics-justice)
-
 Introduction
 ============
 
 “‘I Don’t Know All the Circuitry,’” by Jentery Sayers
 
-> Abstract
+> "Well I don't know all the circuitry, but I can do first aid," said artist Laurie Anderson in October 1981. She was responding to Rob La Frenais, who asked her a few questions about relying on hardware. Arguing that making and scholarship "start in the middle," this introduction unpacks the implications of Anderson's statement for research with technologies. It underscores the centrality of maintenance to such research by privileging "conceptual matter," or the persistent indeterminacies of art, history, language, and culture so vital to the humanities. Drawing on work by Simone Browne, Cornelia Parker, Hannah Perner-Wilson, Karen Barad, and Walter Benjamin, it contextualizes conceptual matter with an emphasis on labor and social relations and then outlines how the chapters collected here complicate demarcations drawn in and beyond the academy: demarcations between thinking and doing, hacking and yacking, writing and building, scholarship and service, creating and critiquing, breaking and repairing, innovation and maintenance, and making and not making, for instance. The introduction concludes with a few notes on the importance of modest relations with materials premised on sustaining conversations and negotiations through a balance of skepticism with surprise. 
 
 I. Making and the Humanities
 ============================
@@ -469,7 +454,7 @@ Chapter 28. “Movable Party,” by Wendy Hsu, Steven Kemper, Josef Taylor, Lind
 
 Chapter 29. “Disrupting Dichotomies: Mobilizing Digital Humanities with the MakerBus,” by Kim Martin, Beth Compton, and Ryan Hunt
 
-> Abstract
+> The past two years has seen the emergence of mobile spaces, whether for maker exploration, art displays, transporting classrooms, or providing access to technology. As co-founders of the MakerBus, a mobile makerspace aimed at increasing digital literacy and promoting engagement with local cultural heritage, the authors know first-hand the importance of mobility, and the successes and difficulties that come along with it. This chapter explores various perceived dichotomies that exist at the point where the maker movement meets academia. Through our unique point of view as humanities practitioners overseeing the MakerBus project, we offer a reflexive take on three main dichotomies that highlight both the practical limitations and theoretical implications of: the role we play as producers and consumers of both maker material and heritage and humanities content; our experiences trying to bridge academia and the community, shifting the locus of humanities research from the campus to the wider public, and breaking down the role of the expert; and the limits of our ability to provide universal access to technology and a critical awareness of our newfound roles as gatekeepers on a multitude of levels.  
 
 Chapter 30. “Designs for Foraging: Fruit Are Heavy,” by Carl DiSalvo, Tom Jenkins, Jong Won (Karl) Kim, Catherine Meschia, and Craig Durkin
 

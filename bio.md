@@ -1,5 +1,13 @@
-Making Humanities Matter 
-Bios
+# Making Humanities Matter: Contributor Biographies  
+
+A collection of essays edited by Jentery Sayers (University of Victoria) 
+
+University of Minnesota Press (under review; manuscript complete) 
+
+Proposed volume in the *Debates in the Digital Humanities* series, edited by Matthew K. Gold and Lauren Klein 
+
+## Contributors 
+
 Namir Ahmed is the director of the Digital Media Experience Lab at Ryerson University.
 
 Erin R. Anderson is an Assistant Professor in the Writing Program at the University of Pittsburgh.

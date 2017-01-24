@@ -178,13 +178,13 @@ Jentery Sayers is Assistant Professor of English and Director of the MLab in the
 
 Jordan Scott is the author of Silt, blert, Decomp (with Steve Collis), clearance process, and the upcoming Night & Ox.  
 
-James Smithies is Director of King's Digital Lab and Module Convenor for Internships in the Department of Digital Humanities, King’s College London.
-
 Lauren Shafer is a Graphic Designer at Eastfield College where she also teaches courses in Digital Media.
 
 Roxanne Shirazi is Assistant Professor and Dissertation Research Librarian at the Graduate Center, CUNY, and a founding Co-Editor of dh+lib. 
 
 Kathryn (Skutlin) Shutt is a 2013 MA graduate of University of Maryland’s English program.
+
+James Smithies is Director of King's Digital Lab and Module Convenor for Internships in the Department of Digital Humanities, King’s College London.
 
 P. P. Sneha is a researcher with the Centre for Internet and Society, Bangalore, India.
 

@@ -110,6 +110,8 @@ Michael Krzyzaniak is a Ph.D. candidate in Media Arts + Sciences at Arizona Stat
 
 J. K. Purdom Lindblad is Assistant Director of Innovation and Learning at the Maryland Institute for Technology in the Humanities.
 
+Dale MacDonald is the Associate Dean for Research and Creative Technologies at the School of Arts, Technology, and Emerging Communication at University of Texas at Dallas.
+
 Jodi Madera-Prado is the online forum administrator/Moderator at G6 Hospitality.
 
 Kim Martin is a Ridley Postdoctoral Fellow in Digital Humanities at the University of Guelph.
@@ -215,3 +217,5 @@ William J. Turkel is Professor of History at The University of Western Ontario.
 Lisa Tweten is a Project Manager for From Stone to Screen. 
 
 Jacqueline Wernimont is an Assistant Professor at Arizona State University and a co-founder of the Human Security Collaboratory.
+
+Jon Winet is a Professor in the School of Art & Art History Intermedia Program at the University of Iowa.
